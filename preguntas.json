@@ -1,1 +1,100 @@
-
+[{
+    "id": 2,
+    "question": "How many seasons has Game of Thrones?",
+    "img": "https://i.ibb.co/3sdfqF3/Icon.png",
+    "opt1": "5",
+    "opt2": "6",
+    "opt3": "7",
+    "opt4": "8",
+    "correct": 4
+},{
+    "id": 1,
+    "question": "What is the name of Portuguese football player Ronaldo?",
+    "img": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opt1": "Cris",
+    "opt2": "Cristiano",
+    "opt3": "Cristopher",
+    "opt4": "Cristian",
+    "correct": 2
+},{
+    "id": 3,
+    "question": "In what age Sandra Bullock was born?",
+    "img": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opt1": "1960",
+    "opt2": "1969",
+    "opt3": "1964",
+    "opt4": "1971",
+    "correct": 3
+},{
+    "id": 5,
+    "question": "In which city will you find Le Bourget airport?",
+    "img": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opt1": "Paris",
+    "opt2": "Nantes",
+    "opt3": "Marsella",
+    "opt4": "Monaco",
+    "correct": 1
+},{
+    "id": 6,
+    "question": "What is the name for the point on the Earth's surface directly above the position where an earthquake originates?",
+    "img": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opt1": "Epilog",
+    "opt2": "Epicentre",
+    "opt3": "Epicenter",
+    "opt4": "Epifany",
+    "correct": 3
+},{
+    "id": 8,
+    "question": "What is the currency of Sweden?",
+    "img": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opt1": "Dollar",
+    "opt2": "Euro",
+    "opt3": "Krona",
+    "opt4": "Peso",
+    "correct": 3
+},{
+    "id": 9,
+    "question": "In which Asian city is the historic waterfront called The Bund?",
+    "img": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opt1": "Tokio",
+    "opt2": "Madrid",
+    "opt3": "New York",
+    "opt4": "Shanghai",
+    "correct": 4
+},{
+    "id": 10,
+    "question": "Rome was founded in which year?",
+    "img": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opt1": "751 A.C",
+    "opt2": "752 A.C",
+    "opt3": "753 A.C",
+    "opt4": "754 A.C",
+    "correct": 3
+},{
+    "id": 11,
+    "question": "What year did the first McDonald’s store open?",
+    "img": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opt1": "1953",
+    "opt2": "1955",
+    "opt3": "1957",
+    "opt4": "1959",
+    "correct": 2
+},{
+    "id": 12,
+    "question": "What is tofu made from?",
+    "img": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opt1": "China",
+    "opt2": "Japan",
+    "opt3": "Korea",
+    "opt4": "Jamaica",
+    "correct": 1
+},{
+    "id": 13,
+    "question": "Which US President had the middle name Milhous?",
+    "img": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opt1": "Abrahan Lincoml",
+    "opt2": "Richard Nixon",
+    "opt3": "Michael Steels",
+    "opt4": "Washington",
+    "correct": 2
+}]
